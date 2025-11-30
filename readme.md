@@ -1,5 +1,8 @@
 # Python Tutorial Series
 
+## Disclaimer: 
+This tutorial series is created solely for learning purposes and to help build programming skills. The exercises and solutions included here are based on questions from the UHasselt Python course (Master in Data Science). They are provided for educational use only. If you are currently enrolled in the course, please use these materials responsibly. Avoid submitting these solutions as your own work and always follow your institution's academic integrity guidelines. Use the provided explanations to understand the logic, not just copy it.
+
 Welcome to the **Python Tutorial Series**! 🎉
 
 This repository contains a structured collection of Python projects designed to help beginners grow from foundational concepts to more advanced Python programming.
