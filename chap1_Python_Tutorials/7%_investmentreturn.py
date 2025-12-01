@@ -27,6 +27,6 @@ a3 = int(p * (1 + r) ** n3)
 print(f'10 years = {a1}\n20 years = {a2}\n30 years = {a3}')
 
 '''
-The most important thing to learn here is how to use to the power sign
-"**"
+The most important thing to learn here is how to
+use to the power sign "**"
 '''
