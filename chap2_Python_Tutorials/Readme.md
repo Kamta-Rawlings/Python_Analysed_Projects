@@ -106,7 +106,6 @@ You’re encouraged to:
 - Explore both simple and efficient approaches  
 
 This builds strong logic and problem-solving skills.
-Boolean statements
 
 ---
 
