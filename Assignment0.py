@@ -5,3 +5,8 @@ str2 = input("Enter the second string: ")
 
 # print(str2 + '\n' + str1)
 print(f'{str2}\n{str1} ')
+
+'''
+As simple as this exercise is,just
+take 2 strings and reverse the order while printing
+'''
