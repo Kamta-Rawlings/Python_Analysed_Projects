@@ -16,7 +16,7 @@ numb = int(num)
 for i in range(1, numb + 1):
     factorial *= i     # compute i! by continuing multiplication
     total += factorial   # add current factorial to total
-print(factorial)
+print(total)
 
 '''
 Most importantly, understand what you are looking for.
