@@ -27,7 +27,7 @@ Each beginner project folder contains:
 - **Problem Description**
 - **Solution Code**
 - **Explanation / Walkthrough**
-- **Standout Project** (a more challenging task to test what you've learned)
+- **Standout Project NAMED Assignments e.g For chap1 we have Assignment1.py** (a more challenging task to test what you've learned after completing the exercises in each chapter)
 
 ---
 
