@@ -21,6 +21,6 @@ print(f(g(f(g(100)))))
 '''
 OUTPUT
 21
-Look at the 2 functions especiallyy the one under, it will 
+Look at the 2 functions especiallyy the one under, it will
 always return 3. so g(x)=3, and x=7 , so 7 * 3 = 21.
 '''
