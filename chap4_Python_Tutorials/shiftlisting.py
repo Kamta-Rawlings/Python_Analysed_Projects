@@ -11,21 +11,19 @@ example:
 [4, 5, 1, 2, 3]
 >>> shift([1, 2, 3, 4, 5], -2)
 [3, 4, 5, 1, 2]
-
-
 '''
 
 
-def shift(l, n):
+def shift(lm, n):
     # If the list is empty, return it unchanged
-    if len(l) == 0:
-        return l
+    if len(lm) == 0:
+        return lm
 
     # Reduce n so it is within the list length
-    n = n % len(l)
+    n = n % len(lm)
 
     # Split and rejoin the list
-    return l[-n:] + l[:-n]
+    return lm[-n:] + lm[:-n]
 
 
 '''
